@@ -1,0 +1,13 @@
+"app_name" = "BeatPad";
+"app_subtitle" = "Launchpad & Beat Maker";
+"play" = "Play";
+"library" = "Packs";
+"learn" = "Learn";
+"my_tracks" = "My Tracks";
+"settings" = "Settings";
+"bpm" = "BPM";
+"record" = "Record";
+"sync" = "Sync";
+"loop" = "Loop";
+"side_a" = "Side A";
+"side_b" = "Side B";
